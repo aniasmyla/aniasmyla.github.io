@@ -1,0 +1,72 @@
+body{
+	background-color:brown;
+	font-family: Bahnschrift;
+	font-size: 20px;
+	color:white;
+}
+a:link{
+	color:yellow;
+	text-decoration: none;
+}
+a:visited{
+	color:yellow;
+	text-decoration: none;
+}
+a:hover{
+	color:green;
+	text-decoration: underline overline;
+}
+.option{
+	text-align: center;
+	background-color: darkblue;
+	float: left;
+	min-width:50px;
+	height: 20px;
+	font-size: 18px;
+	padding:10px;
+	border: 2px dotted yellow;
+	
+}
+#header{
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+
+}
+
+.Założyciele{
+	background-color: black;
+	text-align: center;
+	font-family: Blackadder ITC;
+	font-size: 30px;
+}
+.Lol{
+	background-color: black;
+	text-align: center;
+	font-family: Blackadder ITC;
+	font-size: 30px;
+}
+.Tft{
+	background-color: black;
+	text-align: center;
+	font-family: Blackadder ITC;
+	font-size: 30px;
+}
+.Lor{
+	background-color: black;
+	text-align: center;
+	font-family: Blackadder ITC;
+	font-size: 30px;
+}
+.Val{
+	background-color: black;
+	text-align: center;
+	font-family: Blackadder ITC;
+	font-size: 30px;
+}
+.Projekt{
+	background-color: black;
+	text-align: center;
+	font-family: Blackadder ITC;
+	font-size: 30px;
+}
